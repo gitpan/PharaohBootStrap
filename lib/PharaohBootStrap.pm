@@ -1,4 +1,4 @@
-package Pharaoh::BootStrap 3.00;
+package Pharaoh::BootStrap 3.01;
 
 use 5.12.0;
 use warnings;
